@@ -1,6 +1,6 @@
 # Trial
 
-what is it 
+what is it about
 
 ## Subheader
 
