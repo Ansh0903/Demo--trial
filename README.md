@@ -2,9 +2,9 @@
 
 what is it about!
 
-##subheader
+## subheader
 
 doing git.
-##Local Development
+## Local Development
  
 1.open index.html in your browser.
